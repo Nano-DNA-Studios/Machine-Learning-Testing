@@ -7,6 +7,22 @@
       "dependencies": {},
       "hash": "8fc54a2cdf0c2169dd26852ea0fe202e11158f43"
     },
+    "com.nanodnastudios.machinelearning": {
+      "version": "https://github.com/Nano-DNA-Studios/Machine-Learning.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.nanodnastudios.machinelearningmath": "1.1.0"
+      },
+      "hash": "3dd94a5b65206efda5cd89864fe7c43e2d8be59c"
+    },
+    "com.nanodnastudios.machinelearningmath": {
+      "version": "https://github.com/Nano-DNA-Studios/Machine-Learning-Math.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "159acbc0b03860a781c17e3a369bea0fdc60c304"
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.1",
       "depth": 0,
